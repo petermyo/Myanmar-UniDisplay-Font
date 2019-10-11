@@ -2,14 +2,21 @@
 	{
 		"name": "Myanmar Gant Gaw",
 		"file_name": "myanmargantgaw.ttf",
-		"image_url": "https://source.unsplash.com/X1UTzW8e7Q4/800x600",
+		"image_url": "https://dummyimage.com/80x50/000/fff&text=Gant_Gaw",
+		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
+		"css": "Myanmar Gant Gaw, san srief"  
+	},
+	{
+		"name": "Myanmar Sabai",
+		"file_name": "myanmargantgaw.ttf",
+		"image_url": "https://dummyimage.com/80x50/000/fff&text=Sabai",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
 		"css": "Myanmar Gant Gaw, san srief"  
 	},
 	{
 		"name": "Pyidaungsu",
 		"file_name": "pyidaungsu.ttf",
-		"image_url": "https://source.unsplash.com/X1UTzW8e7Q4/800x600",
+		"image_url": "https://dummyimage.com/80x50/000/fff&text=Pyidaungsu",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/Pyidaungsu/pyidaungsu.ttf?raw=true",
 		"css": "Pyidaungsu, san srief"  
 	}
