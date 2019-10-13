@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Myanmar Gant Gaw",
-		"file_name": "myanmargantgaw.ttf",
+		"name": "Myanmar San Pro",
+		"file_name": "myanmarsanpro.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Gant_Gaw",
-		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"css": "Myanmar Gant Gaw, san srief"  
+		"font_url":  "http://fonts.googleapis.com/earlyaccess/myanmarsanspro.css",
+		"font-family": "'Myanmar Sans Pro', sans-serif;"  
 	},
 	{
 		"name": "Myanmar Sabai",
