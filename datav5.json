@@ -4,48 +4,48 @@
 		"file_name": "myanmarsanpro.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=SanPro",
 		"font_url":  "http://fonts.googleapis.com/earlyaccess/myanmarsanspro.css",
-		"font-family": "'Myanmar Sans Pro', sans-serif;"  
+		"font_family": "'Myanmar Sans Pro', sans-serif;"  
 	},
 	{
 		"name": "Myanmar Sabai",
 		"file_name": "myanmarsabai.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Sabai",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"css": "Myanmar Gant Gaw, san srief"  
+		"font_family": "Myanmar Gant Gaw, san srief"  
 	},
 	{
 		"name": "Myanmar 3",
 		"file_name": "myanmar3.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=MM3",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"css": "Myanmar Gant Gaw, san srief"  
+		"font_family": "Myanmar Gant Gaw, san srief"  
 	},
 	{
 		"name": "Myanmar San Pro",
 		"file_name": "myanmarsanpro.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=SanPro",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"css": "Myanmar Gant Gaw, san srief"  
+		"font_family": "Myanmar Gant Gaw, san srief"  
 	},
 	{
 		"name": "Myanmar Census",
 		"file_name": "myanmarcensus.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Census",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"css": "Myanmar Gant Gaw, san srief"  
+		"font_family": "Myanmar Gant Gaw, san srief"  
 	},
 	{
 		"name": "Myanmar Sagar",
 		"file_name": "myanmargantgaw.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Sagar",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"css": "Myanmar Gant Gaw, san srief"  
+		"font_family": "Myanmar Gant Gaw, san srief"  
 	},	
 	{
 		"name": "Pyidaungsu",
 		"file_name": "pyidaungsu.ttf",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Pyidaungsu",
 		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/Pyidaungsu/pyidaungsu.ttf?raw=true",
-		"css": "Pyidaungsu, san srief"  
+		"font_family": "Pyidaungsu, san srief"  
 	}
 ]
