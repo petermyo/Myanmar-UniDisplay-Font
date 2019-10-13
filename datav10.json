@@ -4,27 +4,27 @@
 		"file_name": "Pyidaungsu",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Pyidaungsu",
 		"font_url":  "https://cdn.jsdelivr.net/gh/petermyo/Myanmar-UniDisplay-Font@master/Font_Data/Pyidaungsu/font.css",
-		"font_family": "'Pyidaungsu';"  
+		"font_family": "'Pyidaungsu'"  
 	},
 	{
 		"name": "Myanmar San Pro",
 		"file_name": "myanmarsanpro",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=SanPro",
 		"font_url":  "http://fonts.googleapis.com/earlyaccess/myanmarsanspro.css",
-		"font_family": "'Myanmar Sans Pro', sans-serif;"  
+		"font_family": "'Myanmar Sans Pro', sans-serif"  
 	},
 	{
 		"name": "Padauk",
 		"file_name": "myanmarsabai",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Padauk",
 		"font_url":  "https://fonts.googleapis.com/css?family=Padauk&display=swap",
-		"font_family": "'Padauk', sans-serif;"  
+		"font_family": "'Padauk', sans-serif"  
 	},
 	{
 		"name": "Padauk",
 		"file_name": "myanmarsabai",
 		"image_url": "https://dummyimage.com/80x50/000/fff&text=Padauk",
 		"font_url":  "https://fonts.googleapis.com/css?family=Padauk&display=swap",
-		"font_family": "'Padauk', sans-serif;"  
+		"font_family": "'Padauk', sans-serif"  
 	}
 ]
