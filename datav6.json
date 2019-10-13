@@ -7,11 +7,11 @@
 		"font_family": "'Myanmar Sans Pro', sans-serif;"  
 	},
 	{
-		"name": "Myanmar Sabai",
+		"name": "Padauk",
 		"file_name": "myanmarsabai.ttf",
-		"image_url": "https://dummyimage.com/80x50/000/fff&text=Sabai",
-		"font_url":  "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/MyanmarGantGaw/MyanmarGantGaw.ttf?raw=true",
-		"font_family": "Myanmar Gant Gaw, san srief"  
+		"image_url": "https://dummyimage.com/80x50/000/fff&text=Padauk",
+		"font_url":  "https://fonts.googleapis.com/css?family=Padauk&display=swap",
+		"font_family": "'Padauk', sans-serif;"  
 	},
 	{
 		"name": "Myanmar 3",
