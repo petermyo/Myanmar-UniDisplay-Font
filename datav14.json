@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Pyidaungsu",
-		"file_name": "Pyidaungsu",
-		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarSansPro/myanmarsanpro.jpg",
-		"font_url":  "https://cdn.jsdelivr.net/gh/petermyo/Myanmar-UniDisplay-Font@master/Font_Data/Pyidaungsu/font.css",
-		"font_family": "'Pyidaungsu'"  
+		"name": "MyanmarGantgaw",
+		"file_name": "MyanmarGantgaw",
+		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarGantGaw/myanmargantgaw.jpg",
+		"font_url":  "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarGantGaw/font.css",
+		"font_family": "'MyanmarGantgaw'"  
 	},
 	{
 		"name": "Myanmar San Pro",
