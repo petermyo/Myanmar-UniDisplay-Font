@@ -1,10 +1,10 @@
 [
 	{
-		"name": "MyanmarGantgaw",
+		"name": "Myanmar Gantgaw",
 		"file_name": "MyanmarGantgaw",
 		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarGantGaw/myanmargantgaw.jpg",
 		"font_url":  "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarGantGaw/font.css",
-		"font_family": "'MyanmarGantgaw'"  
+		"font_family": "'Myanmar Gantgaw'"  
 	},
 	{
 		"name": "Myanmar San Pro",
