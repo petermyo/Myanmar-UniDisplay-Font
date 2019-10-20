@@ -1,15 +1,12 @@
 @font-face {
-    font-family: 'Pyidaungsu';
-    src: url('Pyidaungsu.woff2') format('woff2'),
-        url('Pyidaungsu.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Pyidaungsu';
-    src: url('Pyidaungsu-Bold.woff2') format('woff2'),
-        url('Pyidaungsu-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
+  font-family: "MyanmarGantgaw";
+  src: url("MyanmarGantGaw.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarGantGaw.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarGantGaw.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarGantGaw.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarGantGaw.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarGantGaw.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarGantGaw.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
 }
