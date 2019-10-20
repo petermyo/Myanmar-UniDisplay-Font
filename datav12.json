@@ -2,7 +2,7 @@
 	{
 		"name": "Pyidaungsu",
 		"file_name": "Pyidaungsu",
-		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarSansPro/myanmarsanpro.jp",
+		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarSansPro/myanmarsanpro.jpg",
 		"font_url":  "https://cdn.jsdelivr.net/gh/petermyo/Myanmar-UniDisplay-Font@master/Font_Data/Pyidaungsu/font.css",
 		"font_family": "'Pyidaungsu'"  
 	},
@@ -16,7 +16,7 @@
 	{
 		"name": "Padauk",
 		"file_name": "Padauk",
-		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarSansPro/myanmarsanpro.jp",
+		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarSansPro/myanmarsanpro.jpg",
 		"font_url":  "https://fonts.googleapis.com/css?family=Padauk&display=swap",
 		"font_family": "'Padauk', sans-serif"  
 	}
