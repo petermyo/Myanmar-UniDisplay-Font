@@ -9,7 +9,7 @@
 	{
 		"name": "Myanmar San Pro",
 		"file_name": "myanmarsanpro",
-		"image_url": "https://dummyimage.com/80x50/000/fff&text=SanPro",
+		"image_url": "https://raw.githubusercontent.com/petermyo/Myanmar-UniDisplay-Font/master/Font_Data/MyanmarSansPro/myanmarsanpro.jpg",
 		"font_url":  "http://fonts.googleapis.com/earlyaccess/myanmarsanspro.css",
 		"font_family": "'Myanmar Sans Pro', sans-serif"  
 	},
