@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarBlack";
+  src: url("MyanmarBlack.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarBlack.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarBlack.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarBlack.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarBlack.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarBlack.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarBlack.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

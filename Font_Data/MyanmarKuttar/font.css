@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarKuttar";
+  src: url("MyanmarKuttar.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarKuttar.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarKuttar.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarKuttar.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarKuttar.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarKuttar.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarKuttar.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

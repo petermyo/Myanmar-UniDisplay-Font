@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarCensus";
+  src: url("MyanmarCensus.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarCensus.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarCensus.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarCensus.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarCensus.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarCensus.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarCensus.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

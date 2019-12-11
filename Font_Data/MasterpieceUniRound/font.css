@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MasterpieceUniRound";
+  src: url("MasterpieceUniRound.eot"); /* IE9 Compat Modes */
+  src: url("MasterpieceUniRound.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MasterpieceUniRound.otf") format("opentype"), /* Open Type Font */
+    url("MasterpieceUniRound.svg") format("svg"), /* Legacy iOS */
+    url("MasterpieceUniRound.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MasterpieceUniRound.woff") format("woff"), /* Modern Browsers */
+    url("MasterpieceUniRound.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

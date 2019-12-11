@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "CherryUnicode";
+  src: url("CherryUnicode.eot"); /* IE9 Compat Modes */
+  src: url("CherryUnicode.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("CherryUnicode.otf") format("opentype"), /* Open Type Font */
+    url("CherryUnicode.svg") format("svg"), /* Legacy iOS */
+    url("CherryUnicode.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("CherryUnicode.woff") format("woff"), /* Modern Browsers */
+    url("CherryUnicode.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

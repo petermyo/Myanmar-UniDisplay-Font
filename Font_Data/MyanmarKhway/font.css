@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarKhway";
+  src: url("MyanmarKhway.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarKhway.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarKhway.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarKhway.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarKhway.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarKhway.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarKhway.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
