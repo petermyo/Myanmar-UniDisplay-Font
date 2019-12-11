@@ -1,0 +1,27 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Padauk";
+  src: url("Padauk.eot"); /* IE9 Compat Modes */
+  src: url("Padauk.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Padauk.otf") format("opentype"), /* Open Type Font */
+    url("Padauk.svg") format("svg"), /* Legacy iOS */
+    url("Padauk.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("Padauk.woff") format("woff"), /* Modern Browsers */
+    url("Padauk.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Padauk";
+  src: url("PadaukBold.eot"); /* IE9 Compat Modes */
+  src: url("PadaukBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("PadaukBold.otf") format("opentype"), /* Open Type Font */
+    url("PadaukBold.svg") format("svg"), /* Legacy iOS */
+    url("PadaukBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("PadaukBold.woff") format("woff"), /* Modern Browsers */
+    url("PadaukBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: bold;
+  font-style: normal;
+}
