@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarSquareLight";
+  src: url("MyanmarSquareLight.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarSquareLight.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarSquareLight.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarSquareLight.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarSquareLight.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarSquareLight.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarSquareLight.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

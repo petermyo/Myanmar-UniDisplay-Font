@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarTagu";
+  src: url("MyanmarTagu.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarTagu.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarTagu.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarTagu.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarTagu.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarTagu.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarTagu.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

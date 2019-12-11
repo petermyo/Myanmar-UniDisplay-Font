@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Myanmarpunk";
+  src: url("MyanmarPunk.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarPunk.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarPunk.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarPunk.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarPunk.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarPunk.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarPunk.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

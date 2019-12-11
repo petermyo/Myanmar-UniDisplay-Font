@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarPonenyet";
+  src: url("MyanmarPonenyet.eot"); /* IE9 Compat Modes */
+  src: url("MyanmarPonenyet.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("MyanmarPonenyet.otf") format("opentype"), /* Open Type Font */
+    url("MyanmarPonenyet.svg") format("svg"), /* Legacy iOS */
+    url("MyanmarPonenyet.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("MyanmarPonenyet.woff") format("woff"), /* Modern Browsers */
+    url("MyanmarPonenyet.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

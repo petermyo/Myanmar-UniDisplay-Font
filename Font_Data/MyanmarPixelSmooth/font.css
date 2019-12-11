@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "MyanmarPixelSmooth";
+  src: url("./fonts/MyanmarPixelSmooth.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/MyanmarPixelSmooth.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/MyanmarPixelSmooth.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/MyanmarPixelSmooth.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/MyanmarPixelSmooth.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/MyanmarPixelSmooth.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/MyanmarPixelSmooth.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
